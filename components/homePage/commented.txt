@@ -1,0 +1,42 @@
+/* const [fontsLoaded] = Font.loadAsync({
+    'Inter-Black': require('.../../assets/fonts/Inter-Black.otf'),
+  }); */
+
+
+  //const [fontsLoaded, fontError] = useFonts({
+  //    "Inter-Black": require("../../assets/fonts/Inter-Black.otf"),
+  // Inter_900Black
+  //});
+
+  /* const _loadFontsAsync= async() => {
+    await Font.loadAsync(customFonts);
+    this.setState({ fontsLoaded: true });
+  }
+
+  componentDidMount() {
+    this._loadFontsAsync();
+  } */
+
+  /* const onLayoutRootView = React.useCallback(async () => {
+    if (fontsLoaded || fontError) {
+      await SplashScreen.hideAsync();
+      console.log("Fonts loaded");
+    }
+  }, [fontsLoaded, fontError]); 
+
+  if (!fontsLoaded && !fontError) {
+    return null;
+  }*/
+
+  /* let customFonts = {
+    'Inter-Black': ("../../assets/fonts/Inter-Black.otf")
+  };
+ */
+
+ /* const fetchFonts = () => {
+  return Font.loadAsync({
+    "Inter-Black": require("../../assets/fonts/Inter-Black.otf"),
+
+  });
+};
+ */

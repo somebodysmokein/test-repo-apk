@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "sample-apk",
+    "slug": "snack-f567f56a-2bda-4c3e-92a7-93c6aa69cc08",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.venky.webhook.snackf567f56a2bda4c3e92a793c6aa69cc08"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "11fdd30e-7dd3-40f1-9da0-aaf3d83427fe"
+      }
+    }
+  }
+}
